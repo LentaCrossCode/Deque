@@ -1,0 +1,15 @@
+H:\DequeRealisation\bin\Debug\DequeRealisation.exe
+H:\DequeRealisation\bin\Debug\DequeRealisation.pdb
+H:\DequeRealisation\obj\x86\Debug\DequeRealisation.Form1.resources
+H:\DequeRealisation\obj\x86\Debug\DequeRealisation.Properties.Resources.resources
+H:\DequeRealisation\obj\x86\Debug\DequeRealisation.csproj.GenerateResource.Cache
+H:\DequeRealisation\obj\x86\Debug\DequeRealisation.exe
+H:\DequeRealisation\obj\x86\Debug\DequeRealisation.pdb
+G:\DequeRealisation\obj\x86\Debug\DequeRealisation.exe
+G:\DequeRealisation\obj\x86\Debug\DequeRealisation.pdb
+F:\DequeRealisation\obj\x86\Debug\DequeRealisation.exe
+F:\DequeRealisation\obj\x86\Debug\DequeRealisation.pdb
+I:\DequeRealisation\obj\x86\Debug\DequeRealisation.exe
+I:\DequeRealisation\obj\x86\Debug\DequeRealisation.pdb
+H:\2_курс\Технологии и методы программирования\DequeRealisation\obj\x86\Debug\DequeRealisation.exe
+H:\2_курс\Технологии и методы программирования\DequeRealisation\obj\x86\Debug\DequeRealisation.pdb
